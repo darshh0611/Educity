@@ -2,7 +2,7 @@
 
 ![Preview](https://imgur.com/GR1EBrb) 
 
-This is a personal project showcasing a single-page website for Bright Dusk University. The website features detailed information about the university's aims, programs, and much more, all built using React.js.
+This is a personal project showcasing a single-page website for Educity University. The website features detailed information about the university's aims, programs, and more, all built using React.js.
 
 ### Features
 
@@ -11,7 +11,7 @@ This is a personal project showcasing a single-page website for Bright Dusk Univ
 - **Responsive Design**
   - Fully responsive layout ensures a seamless experience across all devices.
 - **Interactive UI Elements**
-  - Engage with dynamic components like sliders, dropdowns, and modals.
+  - Engage with dynamic components like sliders, dropdowns, and models.
 
 ### Technologies Used
 
